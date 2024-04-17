@@ -6,7 +6,7 @@ The Magic Link Framework is a Node.js library designed to simplify user authenti
 
 ## Directory Structure
 
-\`\`\`
+```plaintext
 magicLinkFramework/
 │
 ├── magicLink/
@@ -19,7 +19,7 @@ magicLinkFramework/
 └── services/
     ├── userService.ts
     └── authService.ts
-\`\`\`
+```
 
 ### Folders Description
 
