@@ -1,5 +1,7 @@
 # Magic Link Framework
 
+### [Medium blog](https://medium.com/@vishwa.telsang/magic-link-framework-in-nodejs-b758b2f5425a) 
+
 ## Overview
 
 The Magic Link Framework is a Node.js library designed to simplify user authentication by leveraging magic links. This framework provides functionalities for generating, validating magic links or tokens, and managing user sessions.
