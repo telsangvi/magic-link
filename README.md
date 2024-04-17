@@ -36,10 +36,9 @@ magicLinkFramework/
 ## Getting Started
 
 ### Installation
-
-\`\`\`bash
+```
 npm install
-\`\`\`
+```
 
 ## License
 
