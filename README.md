@@ -10,11 +10,11 @@ The Magic Link Framework is a Node.js library designed to simplify user authenti
 magicLinkFramework/
 │
 ├── magicLink/
-│   ├── index.ts
-│   └── magicLinkGenerator.ts
+│   ├── Generate.ts
+│   └── Validate.ts
 │
 ├── middleware/
-│   └── tokenValidationMiddleware.ts
+│   └── auth.ts
 │
 └── services/
     ├── userService.ts
